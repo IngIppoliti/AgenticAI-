@@ -26,8 +26,7 @@ Every time a new job offer is received via email:
 - AWS EC2 – Self-hosted n8n instance
 
 ## 🧭 Workflow Architecture
-
-![Workflow Architecture](./agentic_ai_architecture.png)
+![image](https://github.com/user-attachments/assets/901a2cf3-1e75-4b28-841c-e45187ec5eb6)
 
 ## 📎 Example Output
 
